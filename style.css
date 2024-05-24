@@ -9,10 +9,22 @@
 .nav-link{
     color: #7FA644;
 }
+.navbar-toggler-icon{
+    background-color: #7FA644;
+}
 .bg-light{
     background-color: #F2F2F2;
 }
+.quick-links{
+    background-color: #51382F;
+}
 .hero-section{
     background-image: url("background-hero.jpg");
-    background-size:100%;
+    background-size:cover;
+    background-repeat: no-repeat;
+    background-color: #7FA644;
+    background-position: center;
 }
+.quick-links i {
+    font-size: 3em;
+  }
